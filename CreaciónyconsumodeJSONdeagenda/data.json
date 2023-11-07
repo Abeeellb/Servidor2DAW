@@ -1,0 +1,27 @@
+[
+    {
+        "Nombre": "Luis Miguel",
+        "Apellido": "Yglesias",
+        "Telf": "123456789"
+    },
+    {
+        "Nombre": "Robinson",
+        "Apellido": "Valladolid",
+        "Telf": "789456123"
+    },
+    {
+        "Nombre": "Ivan",
+        "Apellido": "Medina",
+        "Telf": "159753468"
+    },
+    {
+        "Nombre": "Abel",
+        "Apellido": "L\u00f3pez",
+        "Telf": "788455122"
+    },
+    {
+        "Nombre": "Lebron",
+        "Apellido": "James",
+        "Telf": "232323230"
+    }
+]
