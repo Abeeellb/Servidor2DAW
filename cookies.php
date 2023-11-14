@@ -18,7 +18,6 @@
     </form>
 
     <div id="productsList">
-        <!-- Aquí se mostrarán los productos -->
         <?php
         session_start();
 
@@ -32,7 +31,6 @@
         if (isset($_SESSION["selectedCategory"])) {
             $selectedCategory = $_SESSION["selectedCategory"];
 
-            // Mostrar los productos según la categoría seleccionada
             $products = [];
             $csvFile = $selectedCategory . ".csv";
 
